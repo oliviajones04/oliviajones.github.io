@@ -1,0 +1,39 @@
+.body-class {
+    background-color:rgb(217, 230, 242)
+}
+.header-class {
+    background-color:rgb(45, 50, 122);
+    color: white;
+    
+}
+.nav-class {
+    background-color:rgb(94, 41, 41);
+}
+.nav-link-class {
+    color:rgb(195, 218, 233)
+}
+.section-title-class {
+    color:coral;
+}
+.title-class {
+    color: rgb(222, 188, 143);
+}
+.text-class {
+    color: rgb(70, 67, 116);
+}
+.image-class {
+    border-style: solid;
+    border-width: 5px;
+    border-color:rgb(85, 28, 28);
+}
+.form-class {
+    color:darkred;
+}
+.button-class {
+    background-color: darksalmon;
+    color:rgb(45, 50, 122);
+}
+.footer-class {
+    background-color: rgb(74, 15, 15);
+    color: rgb(190, 237, 253);
+}
